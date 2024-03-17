@@ -104,6 +104,45 @@ main{
     font-weight: 700;
 }
 
+/* featured section sytles */
+
+.features{
+    display: flex;
+    margin: 130px 0px;
+    gap: 146px;
+}
+
+.features .section-title{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+
+.feature-content .card{
+    padding: 28px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0px 4px 30px 0px rgba(0 , 0 , 0 , 0.06);
+}
+
+.ten-years-batch{
+    border-radius: 8px;
+    background: #FF900E;
+    color: #FFF;
+    width: 342px;
+    padding: 40px;
+}
+
+.ten-years-batch h2{
+    font-size: 4rem;
+    margin: 0;
+}
+
+.feature-content .card h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
 /* facts section */
 
 .facts-card-container{
