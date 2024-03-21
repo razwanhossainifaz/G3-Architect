@@ -198,6 +198,19 @@ main{
     width: 165px;
 }
 
+/* footer style */
+
+.bg-style{
+    background: rgba(255, 144 , 14 , 0.10);
+    text-align: center;
+    padding: 50px 50px;
+    margin-top: 20px;
+}
+
+footer p{
+    font-size: 16px;
+}
+
 /* responsive style */
 
 /* mobile devices */
